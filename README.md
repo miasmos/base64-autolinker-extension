@@ -1,4 +1,4 @@
-#Base64 Auto-Linker
+# Base64 Auto-Linker
 
 Translates base64 strings into links on any web page.
 
